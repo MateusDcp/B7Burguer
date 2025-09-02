@@ -1,2 +1,2 @@
 # B7Burguer
-A simple yet tasty landing page project — B7Burguer
+B7Burguer is a modern and responsive landing page project designed for a fictional burger restaurant. The main goal of this project is to practice and showcase front-end development skills using HTML, CSS, and responsive design techniques to deliver a clean and attractive user experience. While it currently focuses on the visual and interactive aspects of a landing page, I plan to continue its development in the future by adding a back-end, transforming it into a fully functional application with dynamic content and real data management.
